@@ -2,9 +2,9 @@
 
 A highly interactive, responsive React-based calendar component that mimics a real-world wall calendar. This project demonstrates strong frontend engineering skills including UI/UX design, state management, and performance optimization.
 
- **Live Demo:** [Insert Vercel Link Here]  
+ **Live Demo:** https://calendar-front-black.vercel.app/
  **Loom Walkthrough:** [Insert Loom Video Link Here]  
- **GitHub Repo:** [Insert Repo Link Here]  
+ **GitHub Repo:** https://github.com/RachitSrivas/calendar_front 
 
 ---
 
@@ -130,7 +130,7 @@ npm run dev
  CSE, IIIT Manipur  
 
  GitHub: https://github.com/RachitSrivas  
- LinkedIn: [Insert LinkedIn Link]  
+ LinkedIn: https://www.linkedin.com/in/rachit-srivastava-40128a2a9/
 
 ---
 
